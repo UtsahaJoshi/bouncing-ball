@@ -1,0 +1,15 @@
+.frame {
+    width: 400px;
+    height: 500px;
+    border: 1px solid #000000;
+    position: relative;
+    margin: 0 auto;
+}
+
+.ball {
+    width: 80px;
+    height: 80px;
+    background-color: #ADD8E6;
+    border-radius: 50%;
+    position: absolute;
+}
